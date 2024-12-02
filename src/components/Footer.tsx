@@ -1,6 +1,6 @@
 
 import Image from "next/image" 
-import { FaFacebook, FaFacebookF, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa"
+import { FaFacebookF, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa"
 export default function Footer(){
 return(
     <footer className="py-16 px-4 md:px-8 lg:px-16 pb-48">

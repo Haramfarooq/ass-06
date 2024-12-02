@@ -21,8 +21,8 @@ export default function CustomerTestimonials (){
              <FaStar size={20} color="#000000"/>
             </div>
             <p className="text-[16px] sm:text-[18px] text-black mb-6 font-[400]">
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-             varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+             varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
             </p>
           <div className="flex justify-center items-center gap-[16px] sm:gap-[24px]">
           <Image
@@ -51,8 +51,8 @@ export default function CustomerTestimonials (){
              <FaStar size={20} color="#000000"/>
             </div>
             <p className="text-[16px] sm:text-[18px] text-black mb-6 font-[400]">
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-             varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+             varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
             </p>
           <div className="flex justify-center items-center gap-[16px] sm:gap-[24px]">
           <Image
@@ -80,8 +80,8 @@ export default function CustomerTestimonials (){
              <FaStar size={20} color="#000000"/>
             </div>
             <p className="text-[16px] sm:text-[18px] text-black mb-6 font-[400]">
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-             varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+             varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
             </p>
           <div className="flex justify-center items-center gap-[16px] sm:gap-[24px]">
           <Image
